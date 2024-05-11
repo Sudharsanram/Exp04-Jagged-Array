@@ -23,8 +23,10 @@ using System;
 using System.Security.Cryptography;
 public class Pattern
 {
+
     public static void Main()
     {
+    
       int usage;
       int[][] jaggedArray= new int[4][];
         jaggedArray[0]=new int[4];

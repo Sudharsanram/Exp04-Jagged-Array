@@ -20,8 +20,6 @@ public class Pattern
           Console.WriteLine("CPU usage of {0} node is {1} %",i+1,usage);
 
         }
-
       }
-
     }
 }
